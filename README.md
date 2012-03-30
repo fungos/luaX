@@ -7,5 +7,8 @@ http://www.gamedev.net/topic/515419-lua-running-multiple-scripts/
 http://stackoverflow.com/questions/2196444/problem-with-multiple-scripts-and-lua-threads
 
 Code by
+
 Thiago C. Moraes
+
 Danny Angelo Carminati Grein
+
